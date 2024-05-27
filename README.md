@@ -3,7 +3,13 @@ DSONE-SDHC EOS KOREAN FIX
 
 DSONE-SDHC 한글 메뉴로 바꿔주는 파일입니다.
 
+---
 
+<https://nds.flashcarts.net/card/dsone-sdhc>
+
+카트리지 정보
+
+---
 
 ## 주의 사항
 메뉴에서 한글로 변경은 불가능합니다.
