@@ -1,0 +1,173 @@
+[start menu]
+setup=설정
+save=세이브
+cheat=치트
+Hotkey=단축키
+gbaLink=GBA확장
+
+[setup menu]
+item0=SD 속도
+item1=실행모드
+item2=언어
+item3=밝기
+item4=멀티세이브
+item5=테마
+
+[file handle menu]
+noText=클립보드 비어있음 
+item0=복사
+item1=잘라내기
+item2=붙여넣기
+item3=삭제
+
+[sd speed menu]
+item0=1x 속도
+item1=2x 속도
+item2=3x 속도
+item3=4x 속도
+item4=5x 속도
+item5=6x 속도
+item6=7x 속도
+item7=8x 속도
+item8=빠른 속도
+
+[run mode menu]
+item0=일반
+item1=패치
+
+[patch menu]
+item0=켜기
+item1=끄기
+
+[archive type menu]
+item0=세이브 0
+item1=세이브 1
+item2=세이브 2
+item3=세이브 3
+item4=Null
+
+[save menu]
+item0=4K
+item1=64K
+item2=512K
+item3=2M/4M
+
+[ui type menu]
+title=힌트
+text=테마가 변경되었습니다, '확인'을 눌러서 재시작하세요. '아니오'를 누르면 다음에 변경됩니다.
+item0=파란색
+item1=크리스마스
+item2=중국 잉크
+item3=핑크색
+
+[cheat menu]
+item0=끄기
+item1=켜기
+
+[AntiPiracy menu]
+item0=켜기
+item1=끄기
+item2=지원 없음
+
+[gbaLink menu]
+item0=없음
+item1=링크
+item2=진동
+
+[brightness menu]
+item0=레벨 1
+item1=레벨 2
+item2=레벨 3
+item3=레벨 4
+
+[language menu]
+title=경고!
+text=언어가 변경되었습니다, '확인'을 눌러서 재시작하세요. '아니오'를 누르면 다음에 변경됩니다.
+item0=영어
+item1=S.중국어
+item2=T.중국어
+item3=일본어
+item4=프랑스어
+item5=이태리어
+item6=독일어
+item7=스페인어
+item8=한국어
+
+[set game info]
+item0=멀티세이브
+item1=세이브 크기
+item2=치트
+item3=보호 우회
+
+[text wnd info]
+title=경고!
+item0=%s 파일이 존재하지 않거나 손상되었습니다!
+item1=게임 가이드
+
+[slow wnd]
+title=슬로우
+item0=끄기
+item1=켜기
+
+[message box]
+yes=네
+no=아니오
+ok=확인
+cancel=취소
+
+[progress window]
+processing_copy=파일 복사중, 전원을 끄지 마세요!
+
+[copy file error]
+title=에러!
+text=파일 복사 중 에러가 발생했습니다.
+
+[stop copying file]
+title=확인
+text=복사를 중단하겠습니까?
+
+[no free space]
+title=에러!
+text=공간이 부족합니다, 파일 복사가 중단되었습니다.
+
+[copy file exists]
+title=경고!
+text=파일명이 이미 존재합니다, 확인을 눌려서 덮어쓰시겠습니까?
+
+[copy dest is directory]
+title=에러!
+text=폴더가 이미 존재합니다, 파일을 복사할 수 없습니다.
+
+[move dest is directory]
+title=에러!
+text=폴더가 이미 존재합니다, 파일을 이동할 수 없습니다.
+
+[no copy dir]
+title=에러!
+text=폴더를 복사 또는 이동할 수 없습니다.
+
+[confirm delete file]
+title=확인
+text=삭제 후에는 파일을 복구할 수 없습니다, 확인을 눌려서 삭제하시겠습니까? "%s"?
+
+[do not delete directory]
+title=경고!
+text=폴더가 비어있지 않습니다, 삭제할 수 없습니다.
+
+[main interface title]
+item0=게임으로 돌아가기
+item1=게임 가이드
+item2=세이브
+item3=로드
+item4=슬로우모션
+item5=LCD 밝기
+item6=치트코드
+item7=메인 메뉴로 돌아가기
+
+
+[disk info]
+total=디스크 공간: %s
+used=사용 중인 공간: %s
+free=남은 공간: %s
+
+[end]
