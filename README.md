@@ -28,7 +28,7 @@ DSONE-SDHC 한글 메뉴로 바꿔주는 파일입니다.
 
 1. DSONE-SDHC 기본 커널파일을 받습니다.
 
-<https://github.com/multi-vitamin/DSONE-SDHC-KOREAN/releases/download/release/dsone_sdhc_kor.zip>
+<https://github.com/multi-vitamin/DSONE-SDHC-KOREAN/releases>
 
 2. 한글로 바꿔주는 파일을 받습니다.
 
