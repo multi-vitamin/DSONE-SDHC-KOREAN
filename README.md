@@ -75,6 +75,6 @@ Main Binary Patch Points
 
 <https://github.com/multi-vitamin/DSONE-SDHC-KOREAN/releases>
 
-2. 한글로 바꿔주는 파일을 받습니다.
+2. 위 링크의 zip 파일을 받고 압축해제.
 
 3. 1번의 기본 커널 파일 압축을 해제하고 2번의 파일을 덮어씁니다.
