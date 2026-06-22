@@ -1,10 +1,11 @@
 ## DSONE-SDHC-KOREAN
 DSONE-SDHC EOS FIX
-
+---
 DSONE-SDHC 한글 메뉴 수정.
 Korean Language Menu fix.
 마지막 실행 ROM 포커스 기능 추가.
 Last Launched ROM Focus.
+---
 ---
 
 <https://nds.flashcarts.net/card/dsone-sdhc>
