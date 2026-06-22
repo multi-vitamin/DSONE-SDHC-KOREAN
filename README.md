@@ -29,7 +29,7 @@ Last Launched ROM Focus.
 
 마지막 실행 ROM 포커스.
 - 마지막 실행 ROM을 부팅 후 다시 포커스하는 helper를 추가
-- helper는 원본 펌웨어가 이미 로드해 둔 global settings 구조체에서 `enterLastDirWhenBoot == 1`일 때만 활성화.
+- helper는 원본 펌웨어가 이미 로드해 둔 global settings 구조체에서 `enterLastDirWhenBoot = 1`일 때만 활성화.
 - gate는 global settings pointer `0x02079c9c`를 읽고 `settings + 0x12` 바이트를 확인.
 - `enterLastDirWhenBoot=0` 또는 settings pointer 없음은 last-ROM 포커싱 비활성화로 처리.
 - helper는 `_dsone/LASTSAVE.INI`를 읽음.
@@ -39,7 +39,7 @@ Last Launched ROM Focus.
 
 Last Launched ROM Focus
 - Added a boot-time focus helper for the last launched ROM.
-- The helper is enabled only when the firmware's already-loaded global settings structure has `enterLastDirWhenBoot == 1`.
+- The helper is enabled only when the firmware's already-loaded global settings structure has `enterLastDirWhenBoot = 1`.
 - The gate reads the global settings pointer at `0x02079c9c` and checks byte `settings + 0x12`.
 - `enterLastDirWhenBoot=0` or a missing settings pointer leaves last-ROM focusing disabled.
 - The helper reads `_dsone/LASTSAVE.INI`.
