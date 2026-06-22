@@ -9,6 +9,7 @@ Korean Language Menu fix.
 
 Last Launched ROM Focus.
 
+Implemented using Codex GPT-5.5.
 ---
 
 <https://nds.flashcarts.net/card/dsone-sdhc>
